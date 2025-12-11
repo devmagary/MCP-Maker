@@ -25,6 +25,12 @@ Thumbs.db
 *.bak
 *.tmp
 
-# Exclude Engine and Help files (Copyrighted/Large)
+# Exclude large/unnecessary folders
 Engine/
 help-en/
+Prints/
+
+# Test files
+test.ts
+test_all.ts
+create_hayuasaka.ts
